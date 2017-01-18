@@ -1,0 +1,56 @@
+body {
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.navbar {
+  height: 40px;
+  background-color: #ffffff;
+  padding-top: 15px;
+}
+
+.icon-bar {
+  float: right;
+  padding-right: 50px;
+  display: inline;
+}
+
+.icon-home {
+  float: left;
+  padding-left: 30px;
+}
+
+.slider {
+  background-image: url("http://winniecooper.net/flores/pics/atcq_-_the_low_end_theory-inlay.jpg");
+  text-align: center;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
+.slider-text {
+  padding-top: 250px;
+  color: #ffffff;
+}
+
+.slider-text p {
+  font-size: 22px;
+}
+
+h1 {
+  font-size: 42px;
+  margin-bottom: -20px;
+}
+h2 {
+  font-size: 32px;
+  padding-top: 20px;
+}
+
+.news {
+  padding-left: 30px;
+}
+
+.date {
+  font-style: italic;
+  font-size: 14px;
+  margin-top: -15px;
+  padding-bottom: 20px;
+}

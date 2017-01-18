@@ -65,7 +65,7 @@ a {
 }
 
 .photo img {
-  width: 400px;
+  height: 200px;
   float: left;
 }
 
@@ -74,4 +74,13 @@ a {
   float: left;
   margin-top: -30px;
   padding-left: 30px;
+}
+
+.album {
+  font-size: 24px;
+}
+
+.disc {
+  height: 200px;
+  padding-bottom: 30px;
 }

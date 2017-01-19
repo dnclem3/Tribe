@@ -67,7 +67,8 @@ a {
 .photo img {
   height: 200px;
   float: left;
-}
+  border: 10px solid #000;
+  }
 
 .bio {
   width: 500px;
